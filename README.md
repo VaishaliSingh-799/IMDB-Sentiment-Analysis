@@ -79,7 +79,7 @@ The dataset and the trained model file are not committed (see `.gitignore`).
 ### Option 2: Run locally
 
 ```bash
-git clone https://github.com/<Vaishali-799>/sentiment-analysis-imdb.git
+git clone https://github.com/<VaishaliSingh-799>/sentiment-analysis-imdb.git
 cd sentiment-analysis-imdb
 
 python -m venv venv
